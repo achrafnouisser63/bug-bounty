@@ -86,3 +86,7 @@ Prisma schema is available in `packages/db/prisma/schema.prisma` with models for
 ## Environment Variables
 
 Each app/package expects its own `.env` values for DB, auth, and integrations.
+## Related Tools
+
+- [RustChain](https://rustchain.org) is a useful reference for experimenting with open-source bounty and agent-oriented payment workflows that are adjacent to FreelanceFlow's jobs, proposals, and payments features. RustChain is not a dependency of FreelanceFlow; it is listed here as a related ecosystem project for developers exploring automated contributor rewards.
+
